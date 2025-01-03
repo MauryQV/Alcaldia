@@ -1,6 +1,6 @@
 #BlueJ class context
-comment0.target=Ciudadano
+comment0.target=Citizen
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ciudadano\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=nombreP\ apellidoP\ edadP\ carnetP\ domicilio
-comment1.target=Ciudadano(java.lang.String,\ java.lang.String,\ int,\ int,\ Domicilio)
+comment1.params=firstNameP\ lastNameP\ ageP\ IdentificationP\ address
+comment1.target=Citizen(java.lang.String,\ java.lang.String,\ int,\ int,\ Address)
 numComments=2

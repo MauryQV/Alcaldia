@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=prizeA\ ubicationA\ numberA
+comment1.target=Address(int,\ java.lang.String,\ int)
+numComments=2
