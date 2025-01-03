@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Domicilio
+comment1.params=precio\ UbicacionD\ numeroD
+comment1.target=Domicilio(int,\ java.lang.String,\ int)
+numComments=2
